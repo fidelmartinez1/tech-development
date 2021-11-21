@@ -1,6 +1,5 @@
 from azure.keyvault.secrets import SecretClient
-from azure.identity import DefaultAzureCredential, UsernamePasswordCredential, VisualStudioCodeCredential
-from azure.keyvault.keys import KeyClient
+from azure.identity import DefaultAzureCredential
 
 ##################################################################################################################
 # Requirements/Purpose
